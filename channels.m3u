@@ -1,16 +1,9 @@
+
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 12/10/2015 @ 21:13 [/COLOR]  
-https://www.youtube.com/watch?v=d7Gj0Z6ib7E
+#EXTINF:-1, [COLOR yellow]Updated 12/10/2015 @ 22:31 [/COLOR]  
+http://www.youtube.com/watch?v=d7Gj0Z6ib7E
 
-#EXTINF:-1, [COLOR green] --HINDI Live Tv--[/COLOR]  
-http://www.youtube.com/user/hmemar22
-
-#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
-http://www.youtube.com/user/hmemar22
-
-#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
-http://www.youtube.com/user/hmemar22
 
 #EXTINF:-1, MBC Bollywood1
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
@@ -69,5 +62,231 @@ http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zoom_
 #EXTINF:-1, Zetc
 http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/etc_3G.smil/playlist.m3u8?e=1427420507&a=GB&h=46c7cff34f0db780afb7fee0fa395e7c
 
+#EXTINF:-1, Zee
+rtsp://202.159.213.30:554/zeetv_mobC.sdp?tokan=923152409036
 
+#EXTINF:-1, Colors
+rtsp://202.159.213.30:554/colors_mobC.sdp?token=923152409036
+
+#EXTINF:-1, LifeOK
+http://motv.nexg.tv/LiveTV/PlayOption.aspx?VIRUWAP=&MenuName=Life%20Ok%20VIRUWAP&qstrChannelID=CH357
+
+#EXTINF:-1, Sony
+rtsp://202.159.213.30:554/sony_mobC.sdp?tokan=923152409036
+
+#EXTINF:-1, Sab
+rtsp://202.159.213.30:554/sab_mobC.sdp?tokan=923152409036
+
+#EXTINF:-1, Zanmol
+rtsp://202.159.213.30:554/zeeanmol_mobl_mtnl.sdp?token=923152409036
+
+#EXTINF:-1,bindass
+rtsp://202.159.213.30:554/utvbindass_mobC.sdp?tokan923152409036
+
+
+#EXTINF:-1,UTVstars
+rtsp://202.159.213.30:554/utvstars_mobC.sdp?tokan=923152409036
+
+#EXTINF:-1, UTVMovies
+rtsp://202.159.213.30:554/utvmovies_mobC.sdp?923152409036
+
+#EXTINF:-1, zeecinema
+rtsp://202.159.213.30:554/zeecinema_mobC.sdp?token=923152409036
+
+#EXTINF:-1,zeeclassic
+rtsp://202.159.213.30:554/zeeclassic_mobC.sdp?token=923152409036
+
+#EXTINF:-1,b4umovies
+rtsp://202.159.213.30:554/b4umovies_mobC.sdp?tokan=923152409036
+
+#EXTINF:-1,zing
+rtsp://46.249.213.87/broadcast/zing-qcif.3gp?viruwap.in
+
+#EXTINF:-1,TenCricket
+rtsp://202.159.213.30:554/tencricket_mobC.sdp?tokan=923152409036
+
+#EXTINF:-1,TenSports
+rtsp://202.159.213.30:554/tensports_mobC.sdp?tokan=923152409036
+
+#EXTINF:-1,TenAction
+rtsp://202.159.213.30:554/tenaction_mobC.sdp?tokan=923152409036
+
+#EXTINF:-1,zeenews
+rtsp://202.159.213.30:554/zeenews_mobC.sdp?token=923152409036
+
+ 
+#EXTINF:-1,	Aaj Tak –	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf0/cid_4.sdp 	   
+#EXTINF:-1,	Times Now 	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf0/cid_2.sdp 	   
+#EXTINF:-1,	Headlines today 	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf0/cid_7.sdp 	   
+#EXTINF:-1,	Ndtv india –	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf0/cid_33.sdp 	   
+#EXTINF:-1,	Cnbc awaaz  	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf1/cid_34.sdp	   
+#EXTINF:-1,	Cnbc Tv1	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf0/cid_35.sdp	   
+#EXTINF:-1,	Cee business 	   
+	rtsp://121.244.145.226:554/prf0/cid_45.sdp 	   
+#EXTINF:-1,	Bein Sports 1 	   
+	rtsp://93.120.27.90:1935/live/mobi101g0	   
+#EXTINF:-1,	Bein Sports 11 	   
+	rtsp://93.120.27.90:1935/live/mobi90g	   
+#EXTINF:-1,	Bein Sports 12 	   
+	rtsp://93.120.27.90:1935/live/mobi100g	   
+#EXTINF:-1,	Bein Sports 2 	   
+	rtsp://93.120.27.90:1935/live/mobi25	   
+#EXTINF:-1,	Bein Sports 3 	   
+	rtsp://93.120.27.90:1935/live/mobi3g0	   
+#EXTINF:-1,	Bein Sports 4 	   
+	rtsp://93.120.27.90:1935/live/mobi4g	   
+#EXTINF:-1,	Bein Sports 5 	   
+	rtsp://93.120.27.90:1935/live/mobi50g	   
+#EXTINF:-1,	Bein Sports 6 	   
+	rtsp://93.120.27.90:1935/live/mobi6g5	   
+#EXTINF:-1,	Bein Sports 7 	   
+	rtsp://93.120.27.90:1935/live/mobi70g	   
+#EXTINF:-1,	Bein Sports 8 	   
+	rtsp://93.120.27.90:1935/live/mobi80g	   
+#EXTINF:-1,	BT Sport 1 	   
+	rtsp://93.120.27.78:1935/live/bt121m	   
+#EXTINF:-1,	BT Sport 2 	   
+	rtsp://93.120.27.78:1935/live/bt222m	   
+#EXTINF:-1,	Espn UK 	   
+	rtsp://93.120.27.78:1935/live/espnuum	   
+#EXTINF:-1,	Euro Sport 	   
+	rtsp://93.120.27.78:1935/live/euro1n	   
+#EXTINF:-1,	Geo Super 	   
+	rtsp://93.120.27.90:1935/live/superr29g	   
+#EXTINF:-1,	NBA TV 	   
+	rtsp://93.120.27.78:1935/live/nbaua	   
+#EXTINF:-1,	NFL Network 	   
+	rtsp://93.120.27.78:1935/live/nfl2.stream	   
+#EXTINF:-1,	Ptv Sports 	   
+	rtsp://93.120.27.90:1935/live/ptvspo45p	   
+#EXTINF:-1,	Sky Sports 1 	   
+	rtsp://93.120.27.78:1935/live/sku123444	   
+#EXTINF:-1,	Sky Sports 2 	   
+	rtsp://93.120.27.78:1935/live/sku2300	   
+#EXTINF:-1,	Sky Sports 3 	   
+	rtsp://93.120.27.78:1935/live/sku3055	   
+#EXTINF:-1,	Sky Sports 4 	   
+	rtsp://93.120.27.78:1935/live/sky444	   
+#EXTINF:-1,	Sports Net World 	   
+	rtsp://93.120.27.78:1935/live/snwl	   
+#EXTINF:-1,	WWE 	   
+	rtsp://93.120.27.78:1935/live/wwee0	   
+#EXTINF:-1,	ABC USA 	   
+	rtsp://93.120.27.78:1935/live/abcusa2.stream	   
+#EXTINF:-1,	CBS USA 	   
+	rtsp://93.120.27.78:1935/live/cbsusa2.stream	   
+#EXTINF:-1,	Cinemax 	   
+	rtsp://93.120.27.78:1935/live/cinemax2.stream	   
+#EXTINF:-1,	ESPN 	   
+	rtsp://93.120.27.78:1935/live/espnusa2.stream	   
+#EXTINF:-1,	ESPN 2 	   
+	rtsp://93.120.27.78:1935/live/espn2usa2.stream	   
+#EXTINF:-1,	Fox 	   
+	rtsp://93.120.27.78:1935/live/foxusa2.stream	   
+#EXTINF:-1,	Fx USA 	   
+	rtsp://93.120.27.78:1935/live/fxusa2.stream	   
+#EXTINF:-1,	HBO 	   
+	rtsp://93.120.27.78:1935/live/hbousa2.stream	   
+#EXTINF:-1,	MSNBC 	   
+	rtsp://93.120.27.78:1935/live/msnbc2.stream	   
+#EXTINF:-1,	MTV 	   
+	rtsp://93.120.27.78:1935/live/mtvusa2.stream	   
+#EXTINF:-1,	NBC USA 	   
+	rtsp://93.120.27.78:1935/live/nbcusa2.stream	   
+#EXTINF:-1,	Showtime 	   
+	rtsp://93.120.27.78:1935/live/showtime2.stream	   
+#EXTINF:-1,	Starz 	   
+	rtsp://93.120.27.78:1935/live/starz2.stream	   
+#EXTINF:-1,	Syfy 	   
+	rtsp://93.120.27.78:1935/live/syfy2.stream	   
+#EXTINF:-1,	TBS USA 	   
+	rtsp://93.120.27.78:1935/live/tbs2.stream	   
+#EXTINF:-1,	TNT 	   
+	rtsp://93.120.27.78:1935/live/tntusa2.stream	   
+#EXTINF:-1,	USA Network 	   
+	rtsp://93.120.27.78:1935/live/usanet2.stream	   
+#EXTINF:-1,	9XM	   
+	rtsp://ss4c6.idc.mundu.tv:554/prf2/cid_93.sdp 	   
+#EXTINF:-1,	B4U REAL MUSIC	   
+	rtsp://115.112.248.159:554/prf2/cid_75.sdp 	   
+#EXTINF:-1,	ZOOM	   
+	rtsp://208.77.20.52:1935/dmm1/zoomtv 	   
+#EXTINF:-1,	NEO CRICKET	   
+	rtsp://208.77.20.52:1935/dmm1/neo 	   
+#EXTINF:-1,	INDIA MUSIC	   
+	rtsp://115.112.248.159:554/prf2/cid_85.sdp 	   
+#EXTINF:-1,	UTV STARS	   
+	rtsp://ss4c6.idc.mundu.tv:554/prf2/cid_19.sdp 	   
+#EXTINF:-1,	AAJ TAK	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf2/cid_4.sdp 	   
+#EXTINF:-1,	NDTV INDIA	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf2/cid_33.sdp 	   
+#EXTINF:-1,	CNBC AWAZ	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf2/cid_34.sdp 	   
+#EXTINF:-1,	NDTV 24/7	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf2/cid_29.sdp 	   
+#EXTINF:-1,	NDTV PROFIT	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf2/cid_31.sdp 	   
+#EXTINF:-1,	NDTV GOOD TIMES	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf2/cid_32.sdp 	    
+#EXTINF:-1,	CNBC TV18	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf2/cid_35.sdp 	   
+#EXTINF:-1,	TIMES NOW	   
+	rtsp://ss1c6.idc.mundu.tv:554/prf2/cid_2.sdp 	   
+#EXTINF:-1,	SANGEET BHOJPURI	   
+	rtsp://115.112.248.159:554/prf2/cid_83.sdp 	   
+#EXTINF:-1,	B4U MUSIC	   
+	rtsp://217.146.95.166:554/live/ch12zqcif.3gp 	   
+#EXTINF:-1,	T SERIES TV	   
+	rtsp://217.146.95.166:554/live/ch49yqcif.3gp 	   
+#EXTINF:-1,	ZOOM TV	   
+	rtsp://cdn.m.yupptv.tv/liveorigin/zoomtv1 	   
+#EXTINF:-1,	MTV	   
+	rtsp://122.248.252.56/live/nokia40mtv150.sdp 	   
+#EXTINF:-1,	9XM JHAKAS	   
+	rtsp://122.248.252.56/live/nokia40jhakaas150.sdp 	   
+#EXTINF:-1,	BOLLYWOOD ACTION	   
+	rtsp://217.146.95.166:554/live/ch32yqcif.3gp 	   
+#EXTINF:-1,	BOLLYWOOD MOVIES	   
+	rtsp://217.146.95.166:554/live/ch33yqcif.3gp 	   
+#EXTINF:-1,	COLORS TV	   
+	rtsp://122.248.252.56/live/nokia40col150.sdp 	   
+#EXTINF:-1,	SAHARA ONE	   
+	rtsp://122.248.252.56/live/nokia40saharaone150.sdp 	   
+#EXTINF:-1,	FILMY	   
+	rtsp://122.248.252.56/live/nokia40filmy150.sdp 	   
+#EXTINF:-1,	UTV MOVIES	   
+	rtsp://122.248.252.56/live/nokia40mov150.sdp 	   
+#EXTINF:-1,	UTV BINDASS	   
+	rtsp://122.248.252.56/live/nokia40bin150.sdp 	   
+#EXTINF:-1,	FIRANGI	   
+	rtsp://122.248.252.56/live/nokia40firangi150.sdp 	   
+#EXTINF:-1,	India TV	   
+	rtsp://cdn.m.yupptv.tv/liveorigin/ndtvhindi9003 	   
+#EXTINF:-1,	INDIA TV	   
+	rtsp://122.248.252.56/live/nokia40indiatv150.sdp 	   
+#EXTINF:-1,	IBN 7	   
+	rtsp://122.248.252.56/live/nokia40ibn7150.sdp 	   
+#EXTINF:-1,	HEADLINES TODAY	   
+	rtsp://122.248.252.56/live/nokia40today150.sdp 	   
+#EXTINF:-1,	DELHI AAJ TAK	   
+	rtsp://122.248.252.56/live/nokia40delhi150.sdp 	   
+#EXTINF:-1,	TEZ	   
+	rtsp://122.248.252.56/live/nokia40tez150.sdp 	   
+#EXTINF:-1,	RAJ MUSIX	   
+	rtsp://122.248.252.56/live/nokia40raj_musix150.sdp 	   
+#EXTINF:-1,	DHOOM MUSIC	   
+	rtsp://cdn.m.yupptv.tv/liveorigin/dhoommusic9001 	   
+#EXTINF:-1,	DISNEY (HINDI)	   
+	rtsp://115.248.246.156:554/DISNEYHINDI_QVGA.sdp 	   
+#EXTINF:-1,	Cartoon Network	   
+	rtsp://62.217.247.139:554/dav/live16gprs.3gp 	   
+#EXTINF:-1,	9XM	   
+	rtsp://94.75.250.53:554/rtplive/9xm	 
 
